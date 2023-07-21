@@ -812,6 +812,9 @@ margin-bottom: 150px;
 @media screen and (max-width: 650px) {
 html{
 
+  scroll-behavior: smooth;
+
+
  padding: 0;
  margin: 0;
 
