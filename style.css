@@ -163,6 +163,7 @@ body {
 background-repeat: no-repeat;
 background-position: center;
  background-size: cover;
+ -webkit-background-size: 152.4px 330px;
  background-attachment: fixed;
 }
 
